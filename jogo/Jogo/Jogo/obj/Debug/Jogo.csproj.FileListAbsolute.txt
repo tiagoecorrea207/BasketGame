@@ -1,0 +1,6 @@
+C:\Users\tiaho\Desktop\dev\1\jogo\Jogo\Jogo\bin\Jogo.dll.config
+C:\Users\tiaho\Desktop\dev\1\jogo\Jogo\Jogo\bin\Jogo.dll
+C:\Users\tiaho\Desktop\dev\1\jogo\Jogo\Jogo\bin\Jogo.pdb
+C:\Users\tiaho\Desktop\dev\1\jogo\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\tiaho\Desktop\dev\1\jogo\Jogo\Jogo\obj\Debug\Jogo.dll
+C:\Users\tiaho\Desktop\dev\1\jogo\Jogo\Jogo\obj\Debug\Jogo.pdb
